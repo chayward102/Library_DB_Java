@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="false" 
+  realizations="false" associations="false" dependencies="false" nesting-relationships="false">  
+  <class id="1" language="java" name="AddBooks" project="LibraryDB" file="/LibraryDB/src/AddBooks.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="184" x="159" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="RemoveBooks" project="LibraryDB" file="/LibraryDB/src/RemoveBooks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="163" x="383" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="BorrowDao" project="LibraryDB" file="/LibraryDB/src/BorrowDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="183" x="586" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="StatusBar" project="LibraryDB" file="/LibraryDB/src/StatusBar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="110" x="809" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Menubar" project="LibraryDB" file="/LibraryDB/src/Menubar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="218" x="959" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ScreenReceptionist" project="LibraryDB" 
+    file="/LibraryDB/src/ScreenReceptionist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="203" x="1217" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="JLibrary" project="LibraryDB" file="/LibraryDB/src/JLibrary.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="203" x="1460" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Borrow" project="LibraryDB" file="/LibraryDB/src/Borrow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="160" x="1703" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="LoginPage" project="LibraryDB" file="/LibraryDB/src/LoginPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="234" x="1903" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="MenubarAdmin" project="LibraryDB" file="/LibraryDB/src/MenubarAdmin.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="218" x="2177" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="MenubarCustomer" project="LibraryDB" file="/LibraryDB/src/MenubarCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="218" x="2435" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="RemoveCustomer" project="LibraryDB" file="/LibraryDB/src/RemoveCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="163" x="2693" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="ReturnBooks" project="LibraryDB" file="/LibraryDB/src/ReturnBooks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="194" x="2896" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="SearchBooksAndCustomers" project="LibraryDB" 
+    file="/LibraryDB/src/SearchBooksAndCustomers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="206" x="3130" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="LoginDao" project="LibraryDB" file="/LibraryDB/src/LoginDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="3376" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="ReportDao" project="LibraryDB" file="/LibraryDB/src/ReportDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="267" x="3610" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="CustomerDao" project="LibraryDB" file="/LibraryDB/src/CustomerDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="121" x="3917" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Customer" project="LibraryDB" file="/LibraryDB/src/Customer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="477" width="277" x="4078" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Main" project="LibraryDB" file="/LibraryDB/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="4395" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="BookDao" project="LibraryDB" file="/LibraryDB/src/BookDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="168" x="4548" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="AddCustomers" project="LibraryDB" file="/LibraryDB/src/AddCustomers.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="200" x="4756" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="StartupWindow.ButtonHandler" project="LibraryDB" 
+    file="/LibraryDB/src/StartupWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="4996" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="CustomerBorrowed" project="LibraryDB" file="/LibraryDB/src/CustomerBorrowed.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="275" x="5230" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="ScreenAdmin" project="LibraryDB" file="/LibraryDB/src/ScreenAdmin.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="203" x="5545" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Book" project="LibraryDB" file="/LibraryDB/src/Book.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="211" x="5788" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="ListSearchBooks" project="LibraryDB" file="/LibraryDB/src/ListSearchBooks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="184" x="6039" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="UpdateBooks" project="LibraryDB" file="/LibraryDB/src/UpdateBooks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="184" x="6263" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="ScreenCustomer" project="LibraryDB" file="/LibraryDB/src/ScreenCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="203" x="6487" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="ListReports" project="LibraryDB" file="/LibraryDB/src/ListReports.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="6730" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="BorrowBooks" project="LibraryDB" file="/LibraryDB/src/BorrowBooks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="180" x="6964" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="MenubarReceptionist" project="LibraryDB" 
+    file="/LibraryDB/src/MenubarReceptionist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="218" x="7184" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="LendingReports" project="LibraryDB" file="/LibraryDB/src/LendingReports.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="163" x="7442" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="StartupWindow" project="LibraryDB" file="/LibraryDB/src/StartupWindow.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="113" x="7645" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="SearchDao" project="LibraryDB" file="/LibraryDB/src/SearchDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="281" x="7798" y="-62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>

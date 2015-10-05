@@ -1,0 +1,48 @@
+Goal to make supply id fuctional 
+1) make button on GUI
+2) add supply id to table
+4) add supply id to GUI
+3) add supplyID to getAllBook()  in Book DAO
+
+GOAL to make all buttons fuctional in GUI 
+
+
+
+set up notes
+1)Firefox add on
+2)close firefox 
+3)drag it over into extentions 
+4close extentions 
+5) click the three links in the top right corner 
+6) connect to data base 
+
+next
+1)import JDBC driver 
+2)click prject 
+3) properties 
+4) build path
+5) add external library 
+
+next
+1)Go into all DOA Classes
+2)change location of URL to the location where the SQlite folder is stored
+i.e -G:\\PPP Library Project\\Firefox SQlite.library.sqlite 
+3)dont for get double \\
+
+Tips: If throwing SQL exception this is due to old JDBC driver in the list
+
+
+URL = 
+
+jdbc:sqlite:G:\\PPP Library Project\\Firefox SQlite\\library.sqlite
+
+int	vchar		vchar	date		double	int
+BOOKID, BOOKTITLE, BOOKAUTHOR, DATEADDED, BOOKPRICE, SUPPLIERID
+
+HOW DOES PRICE WORk
+1)GUI starts up and connects to the database and reads the firstline 
+2)First line is displayed to the user
+
+3)How does this happen?
+
+4) a SELECT statement is passed as an object to somewhere???
